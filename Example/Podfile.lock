@@ -1,0 +1,16 @@
+PODS:
+  - Petral-UI-Updator (0.1.0)
+
+DEPENDENCIES:
+  - Petral-UI-Updator (from `../`)
+
+EXTERNAL SOURCES:
+  Petral-UI-Updator:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Petral-UI-Updator: 2ef5efde4f0a754d6981f9588da5f7717cc16e1a
+
+PODFILE CHECKSUM: 2c6a054a9dd27bb5ab4301f0665ac6159e993966
+
+COCOAPODS: 1.6.1

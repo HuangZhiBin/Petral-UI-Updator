@@ -1,0 +1,6 @@
+framework module Petral_UI_Updator {
+  umbrella header "Petral-UI-Updator-umbrella.h"
+
+  export *
+  module * { export * }
+}
