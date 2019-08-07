@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
     s.name             = 'Petral-UI-Updator'
-    s.version          = '1.0.3'
+    s.version          = '1.0.4'
     s.summary          = 'Petral-UI的即时更新的测试插件，可在模拟器刷新XML布局，不需重启项目'
     
     # This description is used to generate tags and improve search results.

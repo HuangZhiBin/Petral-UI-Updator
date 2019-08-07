@@ -1,6 +1,13 @@
 use_frameworks!
-target 'Petral-UI-Updator_Tests' do
+
+platform :ios, '8.0'
+
+target 'Petral-UI-Updator_Example' do
   pod 'Petral-UI-Updator', :path => '../'
-  
-  
+
+  target 'Petral-UI-Updator_Tests' do
+    inherit! :search_paths
+
+    
+  end
 end
