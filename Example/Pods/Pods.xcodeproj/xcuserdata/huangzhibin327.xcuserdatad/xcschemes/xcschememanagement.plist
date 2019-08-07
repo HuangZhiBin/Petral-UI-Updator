@@ -9,6 +9,11 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>Pods-Petral-UI-Updator_Example.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>Pods-Petral-UI-Updator_Tests.xcscheme</key>
 		<dict>
 			<key>isShown</key>

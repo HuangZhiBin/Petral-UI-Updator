@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "313928A2C47418E899507D4EE32E8432"
-               BuildableName = "Pods_Petral_UI_Updator_Tests.framework"
-               BlueprintName = "Pods-Petral-UI-Updator_Tests"
+               BlueprintIdentifier = "8C727B5044A33D8CC12FB6199EB8C383"
+               BuildableName = "Pods_Petral_UI_Updator_Example.framework"
+               BlueprintName = "Pods-Petral-UI-Updator_Example"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -45,9 +45,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "313928A2C47418E899507D4EE32E8432"
-            BuildableName = "Pods_Petral_UI_Updator_Tests.framework"
-            BlueprintName = "Pods-Petral-UI-Updator_Tests"
+            BlueprintIdentifier = "8C727B5044A33D8CC12FB6199EB8C383"
+            BuildableName = "Pods_Petral_UI_Updator_Example.framework"
+            BlueprintName = "Pods-Petral-UI-Updator_Example"
             ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
       </MacroExpansion>

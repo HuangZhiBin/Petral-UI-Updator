@@ -2,8 +2,8 @@
 //  Petral-UI-UpdatorTests.m
 //  Petral-UI-UpdatorTests
 //
-//  Created by ikrboy@163.com on 08/06/2019.
-//  Copyright (c) 2019 ikrboy@163.com. All rights reserved.
+//  Created by huangzhibin on 08/07/2019.
+//  Copyright (c) 2019 huangzhibin. All rights reserved.
 //
 
 @import XCTest;

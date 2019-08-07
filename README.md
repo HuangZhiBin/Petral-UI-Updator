@@ -1,6 +1,6 @@
 # Petral-UI-Updator
 
-[![CI Status](https://img.shields.io/travis/ikrboy@163.com/Petral-UI-Updator.svg?style=flat)](https://travis-ci.org/ikrboy@163.com/Petral-UI-Updator)
+[![CI Status](https://img.shields.io/travis/huangzhibin/Petral-UI-Updator.svg?style=flat)](https://travis-ci.org/huangzhibin/Petral-UI-Updator)
 [![Version](https://img.shields.io/cocoapods/v/Petral-UI-Updator.svg?style=flat)](https://cocoapods.org/pods/Petral-UI-Updator)
 [![License](https://img.shields.io/cocoapods/l/Petral-UI-Updator.svg?style=flat)](https://cocoapods.org/pods/Petral-UI-Updator)
 [![Platform](https://img.shields.io/cocoapods/p/Petral-UI-Updator.svg?style=flat)](https://cocoapods.org/pods/Petral-UI-Updator)
@@ -22,7 +22,7 @@ pod 'Petral-UI-Updator'
 
 ## Author
 
-ikrboy@163.com, huangzhibin
+huangzhibin, BinHuang
 
 ## License
 
