@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
     s.name             = 'Petral-UI-Updator'
-    s.version          = '1.0.2'
+    s.version          = '1.0.3'
     s.summary          = 'Petral-UI的即时更新的测试插件，可在模拟器刷新XML布局，不需重启项目'
     
     # This description is used to generate tags and improve search results.
@@ -33,7 +33,7 @@ Pod::Spec.new do |s|
     s.source_files = 'Petral-UI-Updator/Classes/**/*'
     
     s.resource_bundles = {
-        'Petral-UI-Updator' => ['Petral-UI-Updator/Assets/*.png']
+        'Petral-UI-Updator' => ['Petral-UI-Updator/Assets/**/*']
     }
     
     # s.public_header_files = 'Pod/Classes/**/*.h'
