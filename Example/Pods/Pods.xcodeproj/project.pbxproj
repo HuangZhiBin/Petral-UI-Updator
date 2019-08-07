@@ -63,7 +63,6 @@
 		932EFBB722FA7416000D0CA3 /* DDTTYLogger.h in Headers */ = {isa = PBXBuildFile; fileRef = 932EFB8422FA7416000D0CA3 /* DDTTYLogger.h */; };
 		932EFBB822FA7416000D0CA3 /* DDFileLogger.m in Sources */ = {isa = PBXBuildFile; fileRef = 932EFB8522FA7416000D0CA3 /* DDFileLogger.m */; };
 		932EFBB922FA7416000D0CA3 /* DDASLLogger.h in Headers */ = {isa = PBXBuildFile; fileRef = 932EFB8622FA7416000D0CA3 /* DDASLLogger.h */; };
-		932EFBBF22FA8BBF000D0CA3 /* Petral.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 932EFBBE22FA8BBF000D0CA3 /* Petral.bundle */; };
 		BDE3BD7554157E01AE323AF8480DE026 /* Petral-UI-Updator-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 88749032523E86A6499DA67E3686BE2D /* Petral-UI-Updator-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		CA0E8359D5677D4713E28DC39D973863 /* Petral-UI-Updator-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EB774B39CA4A1769500BD3CD117D115 /* Petral-UI-Updator-dummy.m */; };
 		F1F4D7172B7524683E06DE537201BEEB /* Pods-Petral-UI-Updator_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 04B58E00A1E5906444D0F25A2EAE2E7B /* Pods-Petral-UI-Updator_Example-dummy.m */; };
@@ -158,7 +157,6 @@
 		932EFB8422FA7416000D0CA3 /* DDTTYLogger.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DDTTYLogger.h; sourceTree = "<group>"; };
 		932EFB8522FA7416000D0CA3 /* DDFileLogger.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DDFileLogger.m; sourceTree = "<group>"; };
 		932EFB8622FA7416000D0CA3 /* DDASLLogger.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DDASLLogger.h; sourceTree = "<group>"; };
-		932EFBBE22FA8BBF000D0CA3 /* Petral.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; name = Petral.bundle; path = "Petral-UI-Updator/Assets/Petral.bundle"; sourceTree = "<group>"; };
 		9799EA4569E684D3011A44700FCF04DB /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9EAA4D3807AFEBAC8889644BB1B52FE8 /* Petral-UI-Updator.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Petral-UI-Updator.modulemap"; sourceTree = "<group>"; };
@@ -210,7 +208,6 @@
 		0F871F061DA1452666BCC99F177C292F /* Petral-UI-Updator */ = {
 			isa = PBXGroup;
 			children = (
-				932EFBBE22FA8BBF000D0CA3 /* Petral.bundle */,
 				932EFB5122FA7416000D0CA3 /* FloatButton */,
 				932EFB4C22FA7416000D0CA3 /* HTTP */,
 				932EFB5922FA7416000D0CA3 /* Libs */,
@@ -591,7 +588,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				932EFBBF22FA8BBF000D0CA3 /* Petral.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
